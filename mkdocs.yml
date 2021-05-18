@@ -13,4 +13,11 @@ pages:
     - Introdução: 
         - Planejamento: Introdução/Planejamento.md
         - Sobre o Discord: Introdução/Sobre_o_Discord.md
+    - Desenvolvimento:
+        - Questionário: Desenvolvimento/Questionário.md
+        - Análise dos Dados: Desenvolvimento/Análise_dos_Dados.md
+        - Prototipação: Desenvolvimento/Prototipação.md
+    - Resultados:
+        - Resultados das Técnicas: Resultados/Resultados das Técnicas.md
+        - Conclusão: Resultados/Conclusão.md
     - Bibliografia: Bibliografia.md

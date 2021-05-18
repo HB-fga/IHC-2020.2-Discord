@@ -7,3 +7,7 @@ Esse trabalho tem como objetivo apresentar os dados levantados da pesquisa refer
 ## Métodos e Técnicas
 
 Durante o desenvolvimento do projeto foram utilizados diversos métodos e técnicas para alcançar os objetivos definidos. Entre eles estão o uso de questionário com perguntas em escala de Likert para o levantamento de dados, correlação de Pearson para a análise dos dados coletados pelo questionário, Brainstorming, uma técnica de contribuição de ideias espontâneas dos membros da equipe, para ajudar a definir as mudanças desenvolvidas no protótipo e teste de usabilidade para avaliar as modificações produzidas.
+
+## Ferramentas
+
+TO DO

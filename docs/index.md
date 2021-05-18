@@ -1,19 +1,15 @@
 # Sobre o Projeto
 
 <div align="center">
-  <img width="300" height="300" src= "https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/discordBig.png"/>
+  <img src= "https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/discordBig.png"/>
 </div>
 
 <br />
-
-# Sobre
 
 Esta é a wiki do repositório destinado ao grupo 7 da disciplina de Interação Humano Computador, ministrada pelo professor Sergio Antonio, na Universidade de Brasília - Gama, durante o período 2020/2.  
 Essa Wiki irá conter parte do conteúdo do relatório final organizado em uma forma mais dinâmica.
 <br />
 <br />
-
-# Contribuidores
 
 ## Contribuidores
 
