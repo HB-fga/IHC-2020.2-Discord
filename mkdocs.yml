@@ -1,0 +1,16 @@
+site_name: IHC Discord
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep purple
+  favicon: assets/icons/favicon.ico
+  logo: assets/icons/discord.png
+
+pages:
+    - Sobre o Projeto: index.md
+    - Introdução: 
+        - Planejamento: Introdução/Planejamento.md
+        - Sobre o Discord: Introdução/Sobre_o_Discord.md
+    - Bibliografia: Bibliografia.md
