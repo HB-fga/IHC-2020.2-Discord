@@ -16,8 +16,8 @@ pages:
     - Desenvolvimento:
         - Questionário: Desenvolvimento/Questionário.md
         - Análise dos Dados: Desenvolvimento/Análise_dos_Dados.md
-        - Prototipação: Desenvolvimento/Prototipação.md
+        - Prototipação: Desenvolvimento/Protótipo.md
     - Resultados:
-        - Resultados das Técnicas: Resultados/Resultados das Técnicas.md
+        - Protótipo: Resultados/Prototipação.md
         - Conclusão: Resultados/Conclusão.md
     - Bibliografia: Bibliografia.md

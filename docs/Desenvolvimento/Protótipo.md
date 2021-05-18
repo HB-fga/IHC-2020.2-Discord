@@ -1,4 +1,4 @@
-# Prototipação
+# Protótipo
 
 A construção do protótipo foi realizada na plataforma Figma tendo como base os dados levantados pelo questionário e as propostas de mudança definidas pelo Brainstorming.  
 

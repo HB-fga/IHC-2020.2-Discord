@@ -23,4 +23,7 @@ https://www.figma.com/proto/L3CS69AagJ1g7O0KWCekNI/Projeto?node-id=147%3A3399&sc
 https://drive.google.com/file/d/1G2d7upMvwQl_vkGssEGWF23b_QXL6kG6/view?usp=sharing
 
 > Apêndice V: Testes de usabilidade
-Apêndice VI: Protótipo x Discord
+https://www.youtube.com/watch?v=8X8tz8bK3so&list=PLfjrItpQDDjKK2i7OP4owVn4e1dBvLqHD
+
+> Apêndice VI: Protótipo x Discord
+https://docs.google.com/document/d/16xUBuV5k4lY17ytO35_vXiFokuHXLOk7o-3VKETHRnA/edit?usp=sharing

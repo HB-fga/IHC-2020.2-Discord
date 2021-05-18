@@ -10,4 +10,11 @@ Durante o desenvolvimento do projeto foram utilizados diversos métodos e técni
 
 ## Ferramentas
 
-TO DO
+| Ícone | Nome | Função | 
+|:--:|:--:|:--:| 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/discord.png"> | Discord | Reuniões síncronas com a equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/icons/figma.png"> | Figma | Prototipagem | 
