@@ -25,5 +25,5 @@ https://drive.google.com/file/d/1G2d7upMvwQl_vkGssEGWF23b_QXL6kG6/view?usp=shari
 > [Apêndice V: Testes de usabilidade](https://www.youtube.com/watch?v=8X8tz8bK3so)  
 https://www.youtube.com/watch?v=8X8tz8bK3so
 
-> [Apêndice VI: Protótipo x Discord](https://drive.google.com/file/d/1jEsoAzB3-bQ3cZBblJDWGaHueAg9tulz/view?usp=sharing)  
-https://drive.google.com/file/d/1jEsoAzB3-bQ3cZBblJDWGaHueAg9tulz/view?usp=sharing
+> [Apêndice VI: Protótipo x Discord](https://drive.google.com/file/d/172hAg2rowokL7mh3iSFGYdKRBGVxAXzg/view?usp=sharing)  
+https://drive.google.com/file/d/172hAg2rowokL7mh3iSFGYdKRBGVxAXzg/view?usp=sharing
