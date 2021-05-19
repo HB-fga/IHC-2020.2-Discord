@@ -18,6 +18,8 @@ pages:
         - Análise dos Dados: Desenvolvimento/Análise_dos_Dados.md
         - Prototipação: Desenvolvimento/Protótipo.md
     - Resultados:
+        - Questionário: Resultados/Questionário.md
+        - Análise dos Dados: Resultados/Análise_dos_Dados.md
         - Protótipo: Resultados/Prototipação.md
         - Conclusão: Resultados/Conclusão.md
     - Bibliografia: Bibliografia.md
