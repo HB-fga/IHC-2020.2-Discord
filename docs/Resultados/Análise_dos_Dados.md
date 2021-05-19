@@ -4,7 +4,7 @@ Durante a análise dos dados coletados vários gráficos foram gerados e interpr
 
 <br>
 
-<img width="800" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/graphs/frequenciaUso.png">
+<img width="800" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/graphs/frequenciaUso.jpg">
 
 Figura 1
 
@@ -13,7 +13,7 @@ A Figura (1) é uma representação gráfica dos dados da frequência de uso do 
 
 <br>
 
-<img width="800" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/graphs/tutorialPrimeiraVezPizza.png">
+<img width="800" src="https://raw.githubusercontent.com/HB-fga/IHC-2020.2-Discord/main/docs/assets/graphs/tutorialPrimeirVezPizza.jpg">
 
 Figura 2
 <br>
